@@ -1,1 +1,7 @@
+
 hello this is master change 2nd change from master
+
+public static void {}
+
+publc static void hcange)P}
+
